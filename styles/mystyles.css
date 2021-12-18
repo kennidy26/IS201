@@ -1,0 +1,49 @@
+/* p{
+    font-family: cursive;
+    color: rgb(61, 54, 54);
+    text-align: center;
+}
+
+h1{
+    font-family: cursive;
+}
+body {
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+.footer {
+    position:fixed;
+   
+    
+   
+    
+} */
+
+.kennidy{
+    color:navy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: powderblue;
+}
+
+.mystory { 
+    position:absolute;
+    color: rgb(100, 77, 230);
+    text-align: center;
+    border-top: 5px solid rgb(118, 140, 206);
+    border-bottom:  5px solid rgb(118, 140, 206);
+    background-color: antiquewhite;
+    left: 5px;
+    right:5px;
+    bottom: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+
+}
+
+.pretty {
+    font-family: cursive;
+    color:indianred;
+    border-left:10px solid khaki;
+    border-right:10px solid khaki;
+}

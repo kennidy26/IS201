@@ -1,0 +1,101 @@
+.chart {
+    color: rgb(90, 19, 90);
+    background-color: whitesmoke ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    font-size: 30px;
+    border-bottom: turquoise;
+    border-bottom: 20px;
+    border: turquoise;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div { 
+    resize: both;
+    overflow: auto;
+}
+body {
+    background-color: rgb(240, 171, 171);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.common {
+    position: absolute;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+    border-bottom: solid 1px black;
+    float: right;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width: 100px;
+    bottom: 64px;
+    z-index: 1;
+    padding-top: 5px;
+    border-right: solid 1px black;
+}
+
+.mainbody{
+    top: 114px;
+    left: 200px;
+    right: 800px;
+    bottom: 300px;
+    border: solid 1px black;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 200px;
+    width: 100px;
+    bottom: 64px;
+    border: solid 1px black;
+}
+
+.footer{
+    height: 50px;
+    bottom: 5px;
+    right: 5px;
+    left: 5px;
+    text-align: center;
+    position: fixed;
+    font-size: 9px;
+}
+
+.name{
+    top: 20px;
+    left: 600PX;
+    right: 600px;
+    z-index: 2;
+    text-align: center;
+    position: fixed;
+}
+
+.subheader{
+    float: right;
+}
+
+.centertop{
+    text-align: center;
+}
+
+.subleft{
+    float: left;
+}
+
+.noback{
+    background-color: none;
+}
+
+.nobord{
+    border: none;
+}
